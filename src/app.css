@@ -1,3 +1,74 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+nav {
+    background-color: #333;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    margin-right: 2%;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: oklch(14.1% 0.005 285.823);
+    color: #ffffff;
+}
+
+.border-mythic{
+    border-color: oklch(57.7% 0.245 27.325);
+    border-radius: 6px;
+    border-width: 6px;
+    border-style: solid;
+}
+
+.border-Ancient{    
+    border-color: transparent;
+    border-image: linear-gradient(to top, #0b97c6, #1e25be)1;
+    border-image-slice: 1;
+    border-radius: 6px;
+    border-width: 6px;
+    border-style: solid;
+}
+
+.border-Chaos{
+    border-color: transparent;
+    border-image: linear-gradient(to top, #f5818e, #c728d7)1;
+    border-image-slice: 1;
+    border-radius: 6px;
+    border-width: 6px;
+    border-style: solid;
+}
