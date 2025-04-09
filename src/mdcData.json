@@ -289,6 +289,144 @@
       "value": 9000000
     }
   ],
+  "Dark Light Butcher": [
+    {
+      "type": "None",
+      "value": 0
+    },
+    {
+      "type": "Dark Light Butcher + 1",
+      "value": 150000
+    },
+    {
+      "type": "Dark Light Butcher + 2",
+      "value": 400000
+    },
+    {
+      "type": "Dark Light Butcher + 3",
+      "value": 900000
+    },
+    {
+      "type": "Dark Light Butcher + 4",
+      "value": 1800000
+    },
+    {
+      "type": "Dark Light Butcher + 5",
+      "value": 3000000
+    },
+    {
+      "type": "Dark Light Butcher + 6",
+      "value": 4200000
+    },
+    {
+      "type": "Dark Light Butcher + 7",
+      "value": 5400000
+    },
+    {
+      "type": "Dark Light Butcher + 8",
+      "value": 6600000
+    },
+    {
+      "type": "Dark Light Butcher + 9",
+      "value": 7800000
+    },
+    {
+      "type": "Dark Light Butcher + 10",
+      "value": 9000000
+    }
+  ],
+  "Dominator Pendant": [
+    {
+      "type": "None",
+      "value": 0
+    },
+    {
+      "type": "Dark Light Butcher + 1",
+      "value": 150000
+    },
+    {
+      "type": "Dark Light Butcher + 2",
+      "value": 400000
+    },
+    {
+      "type": "Dark Light Butcher + 3",
+      "value": 900000
+    },
+    {
+      "type": "Dark Light Butcher + 4",
+      "value": 1800000
+    },
+    {
+      "type": "Dark Light Butcher + 5",
+      "value": 3000000
+    },
+    {
+      "type": "Dark Light Butcher + 6",
+      "value": 4200000
+    },
+    {
+      "type": "Dark Light Butcher + 7",
+      "value": 5400000
+    },
+    {
+      "type": "Dark Light Butcher + 8",
+      "value": 6600000
+    },
+    {
+      "type": "Dark Light Butcher + 9",
+      "value": 7800000
+    },
+    {
+      "type": "Dark Light Butcher + 10",
+      "value": 9000000
+    }
+  ],
+  "Hayeire Machine Mark": [
+    {
+      "type": "None",
+      "value": 0
+    },
+    {
+      "type": "Dark Light Butcher + 1",
+      "value": 150000
+    },
+    {
+      "type": "Dark Light Butcher + 2",
+      "value": 400000
+    },
+    {
+      "type": "Dark Light Butcher + 3",
+      "value": 900000
+    },
+    {
+      "type": "Dark Light Butcher + 4",
+      "value": 1800000
+    },
+    {
+      "type": "Dark Light Butcher + 5",
+      "value": 3000000
+    },
+    {
+      "type": "Dark Light Butcher + 6",
+      "value": 4200000
+    },
+    {
+      "type": "Dark Light Butcher + 7",
+      "value": 5400000
+    },
+    {
+      "type": "Dark Light Butcher + 8",
+      "value": 6600000
+    },
+    {
+      "type": "Dark Light Butcher + 9",
+      "value": 7800000
+    },
+    {
+      "type": "Dark Light Butcher + 10",
+      "value": 9000000
+    }
+  ],
   "SF": [
     {
       "type": "None",
@@ -296,99 +434,103 @@
     },
     {
       "type": "204",
-      "value": 35000
+      "value": 48000
     },
     {
       "type": "209",
-      "value": 85000
+      "value": 121000
     },
     {
       "type": "214",
-      "value": 135000
+      "value": 195000
     },
     {
       "type": "219",
-      "value": 210000
-    },
-    {
-      "type": "225",
       "value": 310000
     },
     {
+      "type": "225",
+      "value": 465000
+    },
+    {
       "type": "230",
-      "value": 435000
+      "value": 665000
     },
     {
       "type": "235",
-      "value": 585000
+      "value": 909000
     },
     {
       "type": "240",
-      "value": 760000
+      "value": 1201000
     },
     {
       "type": "245",
-      "value": 960000
+      "value": 1543000
     },
     {
       "type": "255",
-      "value": 1185000
+      "value": 1935000
     },
     {
       "type": "260",
-      "value": 1435000
+      "value": 2381000
     },
     {
       "type": "265",
-      "value": 1710000
+      "value": 2882000
     },
     {
       "type": "270",
-      "value": 2010000
+      "value": 3441000
     },
     {
       "type": "275",
-      "value": 2335000
+      "value": 4058000
     },
     {
       "type": "280",
-      "value": 2685000
+      "value": 4737000
     },
     {
       "type": "285",
-      "value": 3065000
+      "value": 5488000
     },
     {
       "type": "290",
-      "value": 3475000
+      "value": 6313000
     },
     {
       "type": "295",
-      "value": 3915000
+      "value": 7215000
     },
     {
       "type": "300",
-      "value": 4395000
+      "value": 8214000
     },
     {
       "type": "305",
-      "value": 4915000
+      "value": 9315000
     },
     {
       "type": "310",
-      "value": 5475000
+      "value": 10520000
     },
     {
       "type": "315",
-      "value": 6075000
+      "value": 11832000
     },
     {
       "type": "320",
-      "value": 7435000
+      "value": 13254000
     },
     {
       "type": "330",
-      "value": 8215000
+      "value": 14870000
+    },
+    {
+      "type": "340",
+      "value": 16645000
     }
   ],
   "equipment": [
@@ -403,302 +545,302 @@
         {
           "rarity": "Mythic",
           "level": 32,
-          "value": 44200
+          "value": 63100
         },
         {
           "rarity": "Mythic",
           "level": 34,
-          "value": 58500
+          "value": 83400
         },
         {
           "rarity": "Mythic",
           "level": 36,
-          "value": 74100
+          "value": 105600
         },
         {
           "rarity": "Mythic",
           "level": 38,
-          "value": 92300
+          "value": 131600
         },
         {
           "rarity": "Mythic",
           "level": 40,
-          "value": 113100
+          "value": 161200
         },
         {
           "rarity": "Ancient",
           "level": 30,
-          "value": 89000
+          "value": 126000
         },
         {
           "rarity": "Ancient",
           "level": 32,
-          "value": 146200
+          "value": 207600
         },
         {
           "rarity": "Ancient",
           "level": 34,
-          "value": 203400
+          "value": 289200
         },
         {
           "rarity": "Ancient",
           "level": 36,
-          "value": 260600
+          "value": 370800
         },
         {
           "rarity": "Ancient",
           "level": 38,
-          "value": 317800
+          "value": 452400
         },
         {
           "rarity": "Ancient",
           "level": 40,
-          "value": 375000
+          "value": 534000
         },
         {
           "rarity": "Ancient",
           "level": 42,
-          "value": 640200
+          "value": 913200
         },
         {
           "rarity": "Ancient",
           "level": 44,
-          "value": 905400
+          "value": 1292400
         },
         {
           "rarity": "Ancient",
           "level": 46,
-          "value": 1170600
+          "value": 1671600
         },
         {
           "rarity": "Ancient",
           "level": 48,
-          "value": 1435800
+          "value": 2050800
         },
         {
           "rarity": "Ancient",
           "level": 50,
-          "value": 1701000
+          "value": 2430000
         },
         {
           "rarity": "Root Abyss",
           "level": 30,
-          "value": 106900
+          "value": 151700
         },
         {
           "rarity": "Root Abyss",
           "level": 32,
-          "value": 148500
+          "value": 211100
         },
         {
           "rarity": "Root Abyss",
           "level": 34,
-          "value": 190100
+          "value": 270500
         },
         {
           "rarity": "Root Abyss",
           "level": 36,
-          "value": 231700
+          "value": 329900
         },
         {
           "rarity": "Root Abyss",
           "level": 38,
-          "value": 273300
+          "value": 389300
         },
         {
           "rarity": "Root Abyss",
           "level": 40,
-          "value": 314900
+          "value": 448700
         },
         {
           "rarity": "Root Abyss",
           "level": 42,
-          "value": 450900
+          "value": 643100
         },
         {
           "rarity": "Root Abyss",
           "level": 44,
-          "value": 586900
+          "value": 837500
         },
         {
           "rarity": "Root Abyss",
           "level": 46,
-          "value": 722900
+          "value": 1031900
         },
         {
           "rarity": "Root Abyss",
           "level": 48,
-          "value": 858900
+          "value": 1226300
         },
         {
           "rarity": "Root Abyss",
           "level": 50,
-          "value": 994900
+          "value": 1420700
         },
         {
           "rarity": "Necro",
           "level": 30,
-          "value": 125300
+          "value": 177900
         },
         {
           "rarity": "Necro",
           "level": 32,
-          "value": 208500
+          "value": 296700
         },
         {
           "rarity": "Necro",
           "level": 34,
-          "value": 291700
+          "value": 415500
         },
         {
           "rarity": "Necro",
           "level": 36,
-          "value": 374900
+          "value": 534300
         },
         {
           "rarity": "Necro",
           "level": 38,
-          "value": 458100
+          "value": 653100
         },
         {
           "rarity": "Necro",
           "level": 40,
-          "value": 541300
+          "value": 771900
         },
         {
           "rarity": "Necro",
           "level": 42,
-          "value": 1177100
+          "value": 1680900
         },
         {
           "rarity": "Necro",
           "level": 44,
-          "value": 1812900
+          "value": 2589900
         },
         {
           "rarity": "Necro",
           "level": 46,
-          "value": 2448700
+          "value": 3498900
         },
         {
           "rarity": "Necro",
           "level": 48,
-          "value": 3084500
+          "value": 4407900
         },
         {
           "rarity": "Necro",
           "level": 50,
-          "value": 3720300
+          "value": 5316900
         },
         {
           "rarity": "Chaos",
           "level": 40,
-          "value": 659900
+          "value": 941800
         },
         {
           "rarity": "Chaos",
           "level": 42,
-          "value": 925100
+          "value": 1321000
         },
         {
           "rarity": "Chaos",
           "level": 44,
-          "value": 1190300
+          "value": 1700200
         },
         {
           "rarity": "Chaos",
           "level": 46,
-          "value": 1455500
+          "value": 2079400
         },
         {
           "rarity": "Chaos",
           "level": 48,
-          "value": 1720700
+          "value": 2458600
         },
         {
           "rarity": "Chaos",
           "level": 50,
-          "value": 1985900
+          "value": 2837800
         },
         {
           "rarity": "Chaos",
           "level": 52,
-          "value": 2336100
+          "value": 3338400
         },
         {
           "rarity": "Chaos",
           "level": 54,
-          "value": 2686300
+          "value": 3839000
         },
         {
           "rarity": "Chaos",
           "level": 56,
-          "value": 3036500
+          "value": 4339600
         },
         {
           "rarity": "Chaos",
           "level": 58,
-          "value": 3386700
+          "value": 4840200
         },
         {
           "rarity": "Chaos",
           "level": 60,
-          "value": 3736900
+          "value": 5340800
         },
         {
           "rarity": "AbsoLab",
           "level": 40,
-          "value": 960700
+          "value": 1371800
         },
         {
           "rarity": "AbsoLab",
           "level": 42,
-          "value": 1650900
+          "value": 2358600
         },
         {
           "rarity": "AbsoLab",
           "level": 44,
-          "value": 2341100
+          "value": 3345400
         },
         {
           "rarity": "AbsoLab",
           "level": 46,
-          "value": 3031300
+          "value": 4332200
         },
         {
           "rarity": "AbsoLab",
           "level": 48,
-          "value": 3721500
+          "value": 5319000
         },
         {
           "rarity": "AbsoLab",
           "level": 50,
-          "value": 4411700
+          "value": 6305800
         },
         {
           "rarity": "AbsoLab",
           "level": 52,
-          "value": 5448700
+          "value": 7788600
         },
         {
           "rarity": "AbsoLab",
           "level": 54,
-          "value": 6485700
+          "value": 9271400
         },
         {
           "rarity": "AbsoLab",
           "level": 56,
-          "value": 7522700
+          "value": 10754200
         },
         {
           "rarity": "AbsoLab",
           "level": 58,
-          "value": 8559700
+          "value": 12237000
         },
         {
           "rarity": "AbsoLab",
           "level": 60,
-          "value": 9596700
+          "value": 13719800
         }
       ]
     },
@@ -713,302 +855,247 @@
         {
           "rarity": "Mythic",
           "level": 32,
-          "value": 44200
+          "value": 63100
         },
         {
           "rarity": "Mythic",
           "level": 34,
-          "value": 58500
+          "value": 83400
         },
         {
           "rarity": "Mythic",
           "level": 36,
-          "value": 74100
+          "value": 105600
         },
         {
           "rarity": "Mythic",
           "level": 38,
-          "value": 92300
+          "value": 131600
         },
         {
           "rarity": "Mythic",
           "level": 40,
-          "value": 113100
+          "value": 161200
         },
         {
           "rarity": "Ancient",
           "level": 30,
-          "value": 89000
+          "value": 126000
         },
         {
           "rarity": "Ancient",
           "level": 32,
-          "value": 146200
+          "value": 207600
         },
         {
           "rarity": "Ancient",
           "level": 34,
-          "value": 203400
+          "value": 289200
         },
         {
           "rarity": "Ancient",
           "level": 36,
-          "value": 260600
+          "value": 370800
         },
         {
           "rarity": "Ancient",
           "level": 38,
-          "value": 317800
+          "value": 452400
         },
         {
           "rarity": "Ancient",
           "level": 40,
-          "value": 375000
+          "value": 534000
         },
         {
           "rarity": "Ancient",
           "level": 42,
-          "value": 640200
+          "value": 913200
         },
         {
           "rarity": "Ancient",
           "level": 44,
-          "value": 905400
+          "value": 1292400
         },
         {
           "rarity": "Ancient",
           "level": 46,
-          "value": 1170600
+          "value": 1671600
         },
         {
           "rarity": "Ancient",
           "level": 48,
-          "value": 1435800
+          "value": 2050800
         },
         {
           "rarity": "Ancient",
           "level": 50,
-          "value": 1701000
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 30,
-          "value": 106900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 32,
-          "value": 148500
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 34,
-          "value": 190100
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 36,
-          "value": 231700
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 38,
-          "value": 273300
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 40,
-          "value": 314900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 42,
-          "value": 450900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 44,
-          "value": 586900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 46,
-          "value": 722900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 48,
-          "value": 858900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 50,
-          "value": 994900
-        },
+          "value": 2430000
+        },        
         {
           "rarity": "Necro",
           "level": 30,
-          "value": 125300
+          "value": 177900
         },
         {
           "rarity": "Necro",
           "level": 32,
-          "value": 208500
+          "value": 296700
         },
         {
           "rarity": "Necro",
           "level": 34,
-          "value": 291700
+          "value": 415500
         },
         {
           "rarity": "Necro",
           "level": 36,
-          "value": 374900
+          "value": 534300
         },
         {
           "rarity": "Necro",
           "level": 38,
-          "value": 458100
+          "value": 653100
         },
         {
           "rarity": "Necro",
           "level": 40,
-          "value": 541300
+          "value": 771900
         },
         {
           "rarity": "Necro",
           "level": 42,
-          "value": 1177100
+          "value": 1680900
         },
         {
           "rarity": "Necro",
           "level": 44,
-          "value": 1812900
+          "value": 2589900
         },
         {
           "rarity": "Necro",
           "level": 46,
-          "value": 2448700
+          "value": 3498900
         },
         {
           "rarity": "Necro",
           "level": 48,
-          "value": 3084500
+          "value": 4407900
         },
         {
           "rarity": "Necro",
           "level": 50,
-          "value": 3720300
+          "value": 5316900
         },
         {
           "rarity": "Chaos",
           "level": 40,
-          "value": 659900
+          "value": 941800
         },
         {
           "rarity": "Chaos",
           "level": 42,
-          "value": 925100
+          "value": 1321000
         },
         {
           "rarity": "Chaos",
           "level": 44,
-          "value": 1190300
+          "value": 1700200
         },
         {
           "rarity": "Chaos",
           "level": 46,
-          "value": 1455500
+          "value": 2079400
         },
         {
           "rarity": "Chaos",
           "level": 48,
-          "value": 1720700
+          "value": 2458600
         },
         {
           "rarity": "Chaos",
           "level": 50,
-          "value": 1985900
+          "value": 2837800
         },
         {
           "rarity": "Chaos",
           "level": 52,
-          "value": 2336100
+          "value": 3338400
         },
         {
           "rarity": "Chaos",
           "level": 54,
-          "value": 2686300
+          "value": 3839000
         },
         {
           "rarity": "Chaos",
           "level": 56,
-          "value": 3036500
+          "value": 4339600
         },
         {
           "rarity": "Chaos",
           "level": 58,
-          "value": 3386700
+          "value": 4840200
         },
         {
           "rarity": "Chaos",
           "level": 60,
-          "value": 3736900
+          "value": 5340800
         },
         {
           "rarity": "AbsoLab",
           "level": 40,
-          "value": 960700
+          "value": 1371800
         },
         {
           "rarity": "AbsoLab",
           "level": 42,
-          "value": 1650900
+          "value": 2358600
         },
         {
           "rarity": "AbsoLab",
           "level": 44,
-          "value": 2341100
+          "value": 3345400
         },
         {
           "rarity": "AbsoLab",
           "level": 46,
-          "value": 3031300
+          "value": 4332200
         },
         {
           "rarity": "AbsoLab",
           "level": 48,
-          "value": 3721500
+          "value": 5319000
         },
         {
           "rarity": "AbsoLab",
           "level": 50,
-          "value": 4411700
+          "value": 6305800
         },
         {
           "rarity": "AbsoLab",
           "level": 52,
-          "value": 5448700
+          "value": 7788600
         },
         {
           "rarity": "AbsoLab",
           "level": 54,
-          "value": 6485700
+          "value": 9271400
         },
         {
           "rarity": "AbsoLab",
           "level": 56,
-          "value": 7522700
+          "value": 10754200
         },
         {
           "rarity": "AbsoLab",
           "level": 58,
-          "value": 8559700
+          "value": 12237000
         },
         {
           "rarity": "AbsoLab",
           "level": 60,
-          "value": 9596700
+          "value": 13719800
         }
       ]
     },
@@ -1023,57 +1110,57 @@
         {
           "rarity": "Root Abyss",
           "level": 30,
-          "value": 53000
+          "value": 74500
         },
         {
           "rarity": "Root Abyss",
           "level": 32,
-          "value": 73800
+          "value": 104100
         },
         {
           "rarity": "Root Abyss",
           "level": 34,
-          "value": 94600
+          "value": 133700
         },
         {
           "rarity": "Root Abyss",
           "level": 36,
-          "value": 115400
+          "value": 163300
         },
         {
           "rarity": "Root Abyss",
           "level": 38,
-          "value": 136200
+          "value": 192900
         },
         {
           "rarity": "Root Abyss",
           "level": 40,
-          "value": 157000
+          "value": 222500
         },
         {
           "rarity": "Root Abyss",
           "level": 42,
-          "value": 225000
+          "value": 319700
         },
         {
           "rarity": "Root Abyss",
           "level": 44,
-          "value": 293000
+          "value": 416900
         },
         {
           "rarity": "Root Abyss",
           "level": 46,
-          "value": 361000
+          "value": 514100
         },
         {
           "rarity": "Root Abyss",
           "level": 48,
-          "value": 429000
+          "value": 611300
         },
         {
           "rarity": "Root Abyss",
           "level": 50,
-          "value": 497000
+          "value": 708500
         }
       ]
     },
@@ -1088,57 +1175,57 @@
         {
           "rarity": "Root Abyss",
           "level": 30,
-          "value": 53000
+          "value": 74500
         },
         {
           "rarity": "Root Abyss",
           "level": 32,
-          "value": 73800
+          "value": 104100
         },
         {
           "rarity": "Root Abyss",
           "level": 34,
-          "value": 94600
+          "value": 133700
         },
         {
           "rarity": "Root Abyss",
           "level": 36,
-          "value": 115400
+          "value": 163300
         },
         {
           "rarity": "Root Abyss",
           "level": 38,
-          "value": 136200
+          "value": 192900
         },
         {
           "rarity": "Root Abyss",
           "level": 40,
-          "value": 157000
+          "value": 222500
         },
         {
           "rarity": "Root Abyss",
           "level": 42,
-          "value": 225000
+          "value": 319700
         },
         {
           "rarity": "Root Abyss",
           "level": 44,
-          "value": 293000
+          "value": 416900
         },
         {
           "rarity": "Root Abyss",
           "level": 46,
-          "value": 361000
+          "value": 514100
         },
         {
           "rarity": "Root Abyss",
           "level": 48,
-          "value": 429000
+          "value": 611300
         },
         {
           "rarity": "Root Abyss",
           "level": 50,
-          "value": 497000
+          "value": 708500
         }
       ]
     },
@@ -1153,302 +1240,247 @@
         {
           "rarity": "Mythic",
           "level": 32,
-          "value": 44200
+          "value": 63100
         },
         {
           "rarity": "Mythic",
           "level": 34,
-          "value": 58500
+          "value": 83400
         },
         {
           "rarity": "Mythic",
           "level": 36,
-          "value": 74100
+          "value": 105600
         },
         {
           "rarity": "Mythic",
           "level": 38,
-          "value": 92300
+          "value": 131600
         },
         {
           "rarity": "Mythic",
           "level": 40,
-          "value": 113100
+          "value": 161200
         },
         {
           "rarity": "Ancient",
           "level": 30,
-          "value": 89000
+          "value": 126000
         },
         {
           "rarity": "Ancient",
           "level": 32,
-          "value": 146200
+          "value": 207600
         },
         {
           "rarity": "Ancient",
           "level": 34,
-          "value": 203400
+          "value": 289200
         },
         {
           "rarity": "Ancient",
           "level": 36,
-          "value": 260600
+          "value": 370800
         },
         {
           "rarity": "Ancient",
           "level": 38,
-          "value": 317800
+          "value": 452400
         },
         {
           "rarity": "Ancient",
           "level": 40,
-          "value": 375000
+          "value": 534000
         },
         {
           "rarity": "Ancient",
           "level": 42,
-          "value": 640200
+          "value": 913200
         },
         {
           "rarity": "Ancient",
           "level": 44,
-          "value": 905400
+          "value": 1292400
         },
         {
           "rarity": "Ancient",
           "level": 46,
-          "value": 1170600
+          "value": 1671600
         },
         {
           "rarity": "Ancient",
           "level": 48,
-          "value": 1435800
+          "value": 2050800
         },
         {
           "rarity": "Ancient",
           "level": 50,
-          "value": 1701000
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 30,
-          "value": 106900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 32,
-          "value": 148500
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 34,
-          "value": 190100
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 36,
-          "value": 231700
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 38,
-          "value": 273300
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 40,
-          "value": 314900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 42,
-          "value": 450900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 44,
-          "value": 586900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 46,
-          "value": 722900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 48,
-          "value": 858900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 50,
-          "value": 994900
-        },
+          "value": 2430000
+        },        
         {
           "rarity": "Necro",
           "level": 30,
-          "value": 125300
+          "value": 177900
         },
         {
           "rarity": "Necro",
           "level": 32,
-          "value": 208500
+          "value": 296700
         },
         {
           "rarity": "Necro",
           "level": 34,
-          "value": 291700
+          "value": 415500
         },
         {
           "rarity": "Necro",
           "level": 36,
-          "value": 374900
+          "value": 534300
         },
         {
           "rarity": "Necro",
           "level": 38,
-          "value": 458100
+          "value": 653100
         },
         {
           "rarity": "Necro",
           "level": 40,
-          "value": 541300
+          "value": 771900
         },
         {
           "rarity": "Necro",
           "level": 42,
-          "value": 1177100
+          "value": 1680900
         },
         {
           "rarity": "Necro",
           "level": 44,
-          "value": 1812900
+          "value": 2589900
         },
         {
           "rarity": "Necro",
           "level": 46,
-          "value": 2448700
+          "value": 3498900
         },
         {
           "rarity": "Necro",
           "level": 48,
-          "value": 3084500
+          "value": 4407900
         },
         {
           "rarity": "Necro",
           "level": 50,
-          "value": 3720300
+          "value": 5316900
         },
         {
           "rarity": "Chaos",
           "level": 40,
-          "value": 659900
+          "value": 941800
         },
         {
           "rarity": "Chaos",
           "level": 42,
-          "value": 925100
+          "value": 1321000
         },
         {
           "rarity": "Chaos",
           "level": 44,
-          "value": 1190300
+          "value": 1700200
         },
         {
           "rarity": "Chaos",
           "level": 46,
-          "value": 1455500
+          "value": 2079400
         },
         {
           "rarity": "Chaos",
           "level": 48,
-          "value": 1720700
+          "value": 2458600
         },
         {
           "rarity": "Chaos",
           "level": 50,
-          "value": 1985900
+          "value": 2837800
         },
         {
           "rarity": "Chaos",
           "level": 52,
-          "value": 2336100
+          "value": 3338400
         },
         {
           "rarity": "Chaos",
           "level": 54,
-          "value": 2686300
+          "value": 3839000
         },
         {
           "rarity": "Chaos",
           "level": 56,
-          "value": 3036500
+          "value": 4339600
         },
         {
           "rarity": "Chaos",
           "level": 58,
-          "value": 3386700
+          "value": 4840200
         },
         {
           "rarity": "Chaos",
           "level": 60,
-          "value": 3736900
+          "value": 5340800
         },
         {
           "rarity": "AbsoLab",
           "level": 40,
-          "value": 960700
+          "value": 1371800
         },
         {
           "rarity": "AbsoLab",
           "level": 42,
-          "value": 1650900
+          "value": 2358600
         },
         {
           "rarity": "AbsoLab",
           "level": 44,
-          "value": 2341100
+          "value": 3345400
         },
         {
           "rarity": "AbsoLab",
           "level": 46,
-          "value": 3031300
+          "value": 4332200
         },
         {
           "rarity": "AbsoLab",
           "level": 48,
-          "value": 3721500
+          "value": 5319000
         },
         {
           "rarity": "AbsoLab",
           "level": 50,
-          "value": 4411700
+          "value": 6305800
         },
         {
           "rarity": "AbsoLab",
           "level": 52,
-          "value": 5448700
+          "value": 7788600
         },
         {
           "rarity": "AbsoLab",
           "level": 54,
-          "value": 6485700
+          "value": 9271400
         },
         {
           "rarity": "AbsoLab",
           "level": 56,
-          "value": 7522700
+          "value": 10754200
         },
         {
           "rarity": "AbsoLab",
           "level": 58,
-          "value": 8559700
+          "value": 12237000
         },
         {
           "rarity": "AbsoLab",
           "level": 60,
-          "value": 9596700
+          "value": 13719800
         }
       ]
     },
@@ -1463,302 +1495,247 @@
         {
           "rarity": "Mythic",
           "level": 32,
-          "value": 44200
+          "value": 63100
         },
         {
           "rarity": "Mythic",
           "level": 34,
-          "value": 58500
+          "value": 83400
         },
         {
           "rarity": "Mythic",
           "level": 36,
-          "value": 74100
+          "value": 105600
         },
         {
           "rarity": "Mythic",
           "level": 38,
-          "value": 92300
+          "value": 131600
         },
         {
           "rarity": "Mythic",
           "level": 40,
-          "value": 113100
+          "value": 161200
         },
         {
           "rarity": "Ancient",
           "level": 30,
-          "value": 89000
+          "value": 126000
         },
         {
           "rarity": "Ancient",
           "level": 32,
-          "value": 146200
+          "value": 207600
         },
         {
           "rarity": "Ancient",
           "level": 34,
-          "value": 203400
+          "value": 289200
         },
         {
           "rarity": "Ancient",
           "level": 36,
-          "value": 260600
+          "value": 370800
         },
         {
           "rarity": "Ancient",
           "level": 38,
-          "value": 317800
+          "value": 452400
         },
         {
           "rarity": "Ancient",
           "level": 40,
-          "value": 375000
+          "value": 534000
         },
         {
           "rarity": "Ancient",
           "level": 42,
-          "value": 640200
+          "value": 913200
         },
         {
           "rarity": "Ancient",
           "level": 44,
-          "value": 905400
+          "value": 1292400
         },
         {
           "rarity": "Ancient",
           "level": 46,
-          "value": 1170600
+          "value": 1671600
         },
         {
           "rarity": "Ancient",
           "level": 48,
-          "value": 1435800
+          "value": 2050800
         },
         {
           "rarity": "Ancient",
           "level": 50,
-          "value": 1701000
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 30,
-          "value": 106900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 32,
-          "value": 148500
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 34,
-          "value": 190100
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 36,
-          "value": 231700
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 38,
-          "value": 273300
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 40,
-          "value": 314900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 42,
-          "value": 450900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 44,
-          "value": 586900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 46,
-          "value": 722900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 48,
-          "value": 858900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 50,
-          "value": 994900
-        },
+          "value": 2430000
+        },        
         {
           "rarity": "Necro",
           "level": 30,
-          "value": 125300
+          "value": 177900
         },
         {
           "rarity": "Necro",
           "level": 32,
-          "value": 208500
+          "value": 296700
         },
         {
           "rarity": "Necro",
           "level": 34,
-          "value": 291700
+          "value": 415500
         },
         {
           "rarity": "Necro",
           "level": 36,
-          "value": 374900
+          "value": 534300
         },
         {
           "rarity": "Necro",
           "level": 38,
-          "value": 458100
+          "value": 653100
         },
         {
           "rarity": "Necro",
           "level": 40,
-          "value": 541300
+          "value": 771900
         },
         {
           "rarity": "Necro",
           "level": 42,
-          "value": 1177100
+          "value": 1680900
         },
         {
           "rarity": "Necro",
           "level": 44,
-          "value": 1812900
+          "value": 2589900
         },
         {
           "rarity": "Necro",
           "level": 46,
-          "value": 2448700
+          "value": 3498900
         },
         {
           "rarity": "Necro",
           "level": 48,
-          "value": 3084500
+          "value": 4407900
         },
         {
           "rarity": "Necro",
           "level": 50,
-          "value": 3720300
+          "value": 5316900
         },
         {
           "rarity": "Chaos",
           "level": 40,
-          "value": 659900
+          "value": 941800
         },
         {
           "rarity": "Chaos",
           "level": 42,
-          "value": 925100
+          "value": 1321000
         },
         {
           "rarity": "Chaos",
           "level": 44,
-          "value": 1190300
+          "value": 1700200
         },
         {
           "rarity": "Chaos",
           "level": 46,
-          "value": 1455500
+          "value": 2079400
         },
         {
           "rarity": "Chaos",
           "level": 48,
-          "value": 1720700
+          "value": 2458600
         },
         {
           "rarity": "Chaos",
           "level": 50,
-          "value": 1985900
+          "value": 2837800
         },
         {
           "rarity": "Chaos",
           "level": 52,
-          "value": 2336100
+          "value": 3338400
         },
         {
           "rarity": "Chaos",
           "level": 54,
-          "value": 2686300
+          "value": 3839000
         },
         {
           "rarity": "Chaos",
           "level": 56,
-          "value": 3036500
+          "value": 4339600
         },
         {
           "rarity": "Chaos",
           "level": 58,
-          "value": 3386700
+          "value": 4840200
         },
         {
           "rarity": "Chaos",
           "level": 60,
-          "value": 3736900
+          "value": 5340800
         },
         {
           "rarity": "AbsoLab",
           "level": 40,
-          "value": 960700
+          "value": 1371800
         },
         {
           "rarity": "AbsoLab",
           "level": 42,
-          "value": 1650900
+          "value": 2358600
         },
         {
           "rarity": "AbsoLab",
           "level": 44,
-          "value": 2341100
+          "value": 3345400
         },
         {
           "rarity": "AbsoLab",
           "level": 46,
-          "value": 3031300
+          "value": 4332200
         },
         {
           "rarity": "AbsoLab",
           "level": 48,
-          "value": 3721500
+          "value": 5319000
         },
         {
           "rarity": "AbsoLab",
           "level": 50,
-          "value": 4411700
+          "value": 6305800
         },
         {
           "rarity": "AbsoLab",
           "level": 52,
-          "value": 5448700
+          "value": 7788600
         },
         {
           "rarity": "AbsoLab",
           "level": 54,
-          "value": 6485700
+          "value": 9271400
         },
         {
           "rarity": "AbsoLab",
           "level": 56,
-          "value": 7522700
+          "value": 10754200
         },
         {
           "rarity": "AbsoLab",
           "level": 58,
-          "value": 8559700
+          "value": 12237000
         },
         {
           "rarity": "AbsoLab",
           "level": 60,
-          "value": 9596700
+          "value": 13719800
         }
       ]
     },
@@ -1773,302 +1750,247 @@
         {
           "rarity": "Mythic",
           "level": 32,
-          "value": 44200
+          "value": 63100
         },
         {
           "rarity": "Mythic",
           "level": 34,
-          "value": 58500
+          "value": 83400
         },
         {
           "rarity": "Mythic",
           "level": 36,
-          "value": 74100
+          "value": 105600
         },
         {
           "rarity": "Mythic",
           "level": 38,
-          "value": 92300
+          "value": 131600
         },
         {
           "rarity": "Mythic",
           "level": 40,
-          "value": 113100
+          "value": 161200
         },
         {
           "rarity": "Ancient",
           "level": 30,
-          "value": 89000
+          "value": 126000
         },
         {
           "rarity": "Ancient",
           "level": 32,
-          "value": 146200
+          "value": 207600
         },
         {
           "rarity": "Ancient",
           "level": 34,
-          "value": 203400
+          "value": 289200
         },
         {
           "rarity": "Ancient",
           "level": 36,
-          "value": 260600
+          "value": 370800
         },
         {
           "rarity": "Ancient",
           "level": 38,
-          "value": 317800
+          "value": 452400
         },
         {
           "rarity": "Ancient",
           "level": 40,
-          "value": 375000
+          "value": 534000
         },
         {
           "rarity": "Ancient",
           "level": 42,
-          "value": 640200
+          "value": 913200
         },
         {
           "rarity": "Ancient",
           "level": 44,
-          "value": 905400
+          "value": 1292400
         },
         {
           "rarity": "Ancient",
           "level": 46,
-          "value": 1170600
+          "value": 1671600
         },
         {
           "rarity": "Ancient",
           "level": 48,
-          "value": 1435800
+          "value": 2050800
         },
         {
           "rarity": "Ancient",
           "level": 50,
-          "value": 1701000
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 30,
-          "value": 106900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 32,
-          "value": 148500
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 34,
-          "value": 190100
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 36,
-          "value": 231700
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 38,
-          "value": 273300
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 40,
-          "value": 314900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 42,
-          "value": 450900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 44,
-          "value": 586900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 46,
-          "value": 722900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 48,
-          "value": 858900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 50,
-          "value": 994900
-        },
+          "value": 2430000
+        },        
         {
           "rarity": "Necro",
           "level": 30,
-          "value": 125300
+          "value": 177900
         },
         {
           "rarity": "Necro",
           "level": 32,
-          "value": 208500
+          "value": 296700
         },
         {
           "rarity": "Necro",
           "level": 34,
-          "value": 291700
+          "value": 415500
         },
         {
           "rarity": "Necro",
           "level": 36,
-          "value": 374900
+          "value": 534300
         },
         {
           "rarity": "Necro",
           "level": 38,
-          "value": 458100
+          "value": 653100
         },
         {
           "rarity": "Necro",
           "level": 40,
-          "value": 541300
+          "value": 771900
         },
         {
           "rarity": "Necro",
           "level": 42,
-          "value": 1177100
+          "value": 1680900
         },
         {
           "rarity": "Necro",
           "level": 44,
-          "value": 1812900
+          "value": 2589900
         },
         {
           "rarity": "Necro",
           "level": 46,
-          "value": 2448700
+          "value": 3498900
         },
         {
           "rarity": "Necro",
           "level": 48,
-          "value": 3084500
+          "value": 4407900
         },
         {
           "rarity": "Necro",
           "level": 50,
-          "value": 3720300
+          "value": 5316900
         },
         {
           "rarity": "Chaos",
           "level": 40,
-          "value": 659900
+          "value": 941800
         },
         {
           "rarity": "Chaos",
           "level": 42,
-          "value": 925100
+          "value": 1321000
         },
         {
           "rarity": "Chaos",
           "level": 44,
-          "value": 1190300
+          "value": 1700200
         },
         {
           "rarity": "Chaos",
           "level": 46,
-          "value": 1455500
+          "value": 2079400
         },
         {
           "rarity": "Chaos",
           "level": 48,
-          "value": 1720700
+          "value": 2458600
         },
         {
           "rarity": "Chaos",
           "level": 50,
-          "value": 1985900
+          "value": 2837800
         },
         {
           "rarity": "Chaos",
           "level": 52,
-          "value": 2336100
+          "value": 3338400
         },
         {
           "rarity": "Chaos",
           "level": 54,
-          "value": 2686300
+          "value": 3839000
         },
         {
           "rarity": "Chaos",
           "level": 56,
-          "value": 3036500
+          "value": 4339600
         },
         {
           "rarity": "Chaos",
           "level": 58,
-          "value": 3386700
+          "value": 4840200
         },
         {
           "rarity": "Chaos",
           "level": 60,
-          "value": 3736900
+          "value": 5340800
         },
         {
           "rarity": "AbsoLab",
           "level": 40,
-          "value": 960700
+          "value": 1371800
         },
         {
           "rarity": "AbsoLab",
           "level": 42,
-          "value": 1650900
+          "value": 2358600
         },
         {
           "rarity": "AbsoLab",
           "level": 44,
-          "value": 2341100
+          "value": 3345400
         },
         {
           "rarity": "AbsoLab",
           "level": 46,
-          "value": 3031300
+          "value": 4332200
         },
         {
           "rarity": "AbsoLab",
           "level": 48,
-          "value": 3721500
+          "value": 5319000
         },
         {
           "rarity": "AbsoLab",
           "level": 50,
-          "value": 4411700
+          "value": 6305800
         },
         {
           "rarity": "AbsoLab",
           "level": 52,
-          "value": 5448700
+          "value": 7788600
         },
         {
           "rarity": "AbsoLab",
           "level": 54,
-          "value": 6485700
+          "value": 9271400
         },
         {
           "rarity": "AbsoLab",
           "level": 56,
-          "value": 7522700
+          "value": 10754200
         },
         {
           "rarity": "AbsoLab",
           "level": 58,
-          "value": 8559700
+          "value": 12237000
         },
         {
           "rarity": "AbsoLab",
           "level": 60,
-          "value": 9596700
+          "value": 13719800
         }
       ]
     },
@@ -2083,308 +2005,253 @@
         {
           "rarity": "Mythic",
           "level": 32,
-          "value": 44200
+          "value": 63100
         },
         {
           "rarity": "Mythic",
           "level": 34,
-          "value": 58500
+          "value": 83400
         },
         {
           "rarity": "Mythic",
           "level": 36,
-          "value": 74100
+          "value": 105600
         },
         {
           "rarity": "Mythic",
           "level": 38,
-          "value": 92300
+          "value": 131600
         },
         {
           "rarity": "Mythic",
           "level": 40,
-          "value": 113100
+          "value": 161200
         },
         {
           "rarity": "Ancient",
           "level": 30,
-          "value": 89000
+          "value": 126000
         },
         {
           "rarity": "Ancient",
           "level": 32,
-          "value": 146200
+          "value": 207600
         },
         {
           "rarity": "Ancient",
           "level": 34,
-          "value": 203400
+          "value": 289200
         },
         {
           "rarity": "Ancient",
           "level": 36,
-          "value": 260600
+          "value": 370800
         },
         {
           "rarity": "Ancient",
           "level": 38,
-          "value": 317800
+          "value": 452400
         },
         {
           "rarity": "Ancient",
           "level": 40,
-          "value": 375000
+          "value": 534000
         },
         {
           "rarity": "Ancient",
           "level": 42,
-          "value": 640200
+          "value": 913200
         },
         {
           "rarity": "Ancient",
           "level": 44,
-          "value": 905400
+          "value": 1292400
         },
         {
           "rarity": "Ancient",
           "level": 46,
-          "value": 1170600
+          "value": 1671600
         },
         {
           "rarity": "Ancient",
           "level": 48,
-          "value": 1435800
+          "value": 2050800
         },
         {
           "rarity": "Ancient",
           "level": 50,
-          "value": 1701000
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 30,
-          "value": 106900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 32,
-          "value": 148500
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 34,
-          "value": 190100
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 36,
-          "value": 231700
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 38,
-          "value": 273300
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 40,
-          "value": 314900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 42,
-          "value": 450900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 44,
-          "value": 586900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 46,
-          "value": 722900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 48,
-          "value": 858900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 50,
-          "value": 994900
-        },
+          "value": 2430000
+        },        
         {
           "rarity": "Necro",
           "level": 30,
-          "value": 125300
+          "value": 177900
         },
         {
           "rarity": "Necro",
           "level": 32,
-          "value": 208500
+          "value": 296700
         },
         {
           "rarity": "Necro",
           "level": 34,
-          "value": 291700
+          "value": 415500
         },
         {
           "rarity": "Necro",
           "level": 36,
-          "value": 374900
+          "value": 534300
         },
         {
           "rarity": "Necro",
           "level": 38,
-          "value": 458100
+          "value": 653100
         },
         {
           "rarity": "Necro",
           "level": 40,
-          "value": 541300
+          "value": 771900
         },
         {
           "rarity": "Necro",
           "level": 42,
-          "value": 1177100
+          "value": 1680900
         },
         {
           "rarity": "Necro",
           "level": 44,
-          "value": 1812900
+          "value": 2589900
         },
         {
           "rarity": "Necro",
           "level": 46,
-          "value": 2448700
+          "value": 3498900
         },
         {
           "rarity": "Necro",
           "level": 48,
-          "value": 3084500
+          "value": 4407900
         },
         {
           "rarity": "Necro",
           "level": 50,
-          "value": 3720300
+          "value": 5316900
         },
         {
           "rarity": "Chaos",
           "level": 40,
-          "value": 659900
+          "value": 941800
         },
         {
           "rarity": "Chaos",
           "level": 42,
-          "value": 925100
+          "value": 1321000
         },
         {
           "rarity": "Chaos",
           "level": 44,
-          "value": 1190300
+          "value": 1700200
         },
         {
           "rarity": "Chaos",
           "level": 46,
-          "value": 1455500
+          "value": 2079400
         },
         {
           "rarity": "Chaos",
           "level": 48,
-          "value": 1720700
+          "value": 2458600
         },
         {
           "rarity": "Chaos",
           "level": 50,
-          "value": 1985900
+          "value": 2837800
         },
         {
           "rarity": "Chaos",
           "level": 52,
-          "value": 2336100
+          "value": 3338400
         },
         {
           "rarity": "Chaos",
           "level": 54,
-          "value": 2686300
+          "value": 3839000
         },
         {
           "rarity": "Chaos",
           "level": 56,
-          "value": 3036500
+          "value": 4339600
         },
         {
           "rarity": "Chaos",
           "level": 58,
-          "value": 3386700
+          "value": 4840200
         },
         {
           "rarity": "Chaos",
           "level": 60,
-          "value": 3736900
+          "value": 5340800
         },
         {
           "rarity": "AbsoLab",
           "level": 40,
-          "value": 960700
+          "value": 1371800
         },
         {
           "rarity": "AbsoLab",
           "level": 42,
-          "value": 1650900
+          "value": 2358600
         },
         {
           "rarity": "AbsoLab",
           "level": 44,
-          "value": 2341100
+          "value": 3345400
         },
         {
           "rarity": "AbsoLab",
           "level": 46,
-          "value": 3031300
+          "value": 4332200
         },
         {
           "rarity": "AbsoLab",
           "level": 48,
-          "value": 3721500
+          "value": 5319000
         },
         {
           "rarity": "AbsoLab",
           "level": 50,
-          "value": 4411700
+          "value": 6305800
         },
         {
           "rarity": "AbsoLab",
           "level": 52,
-          "value": 5448700
+          "value": 7788600
         },
         {
           "rarity": "AbsoLab",
           "level": 54,
-          "value": 6485700
+          "value": 9271400
         },
         {
           "rarity": "AbsoLab",
           "level": 56,
-          "value": 7522700
+          "value": 10754200
         },
         {
           "rarity": "AbsoLab",
           "level": 58,
-          "value": 8559700
+          "value": 12237000
         },
         {
           "rarity": "AbsoLab",
           "level": 60,
-          "value": 9596700
+          "value": 13719800
         }
       ]
     },
     {
-      "itemType":"Cape",
-      "data":[
+      "itemType": "Cape",
+      "data": [
         {
           "rarity": "Mythic",
           "level": 30,
@@ -2393,302 +2260,247 @@
         {
           "rarity": "Mythic",
           "level": 32,
-          "value": 44200
+          "value": 63100
         },
         {
           "rarity": "Mythic",
           "level": 34,
-          "value": 58500
+          "value": 83400
         },
         {
           "rarity": "Mythic",
           "level": 36,
-          "value": 74100
+          "value": 105600
         },
         {
           "rarity": "Mythic",
           "level": 38,
-          "value": 92300
+          "value": 131600
         },
         {
           "rarity": "Mythic",
           "level": 40,
-          "value": 113100
+          "value": 161200
         },
         {
           "rarity": "Ancient",
           "level": 30,
-          "value": 89000
+          "value": 126000
         },
         {
           "rarity": "Ancient",
           "level": 32,
-          "value": 146200
+          "value": 207600
         },
         {
           "rarity": "Ancient",
           "level": 34,
-          "value": 203400
+          "value": 289200
         },
         {
           "rarity": "Ancient",
           "level": 36,
-          "value": 260600
+          "value": 370800
         },
         {
           "rarity": "Ancient",
           "level": 38,
-          "value": 317800
+          "value": 452400
         },
         {
           "rarity": "Ancient",
           "level": 40,
-          "value": 375000
+          "value": 534000
         },
         {
           "rarity": "Ancient",
           "level": 42,
-          "value": 640200
+          "value": 913200
         },
         {
           "rarity": "Ancient",
           "level": 44,
-          "value": 905400
+          "value": 1292400
         },
         {
           "rarity": "Ancient",
           "level": 46,
-          "value": 1170600
+          "value": 1671600
         },
         {
           "rarity": "Ancient",
           "level": 48,
-          "value": 1435800
+          "value": 2050800
         },
         {
           "rarity": "Ancient",
           "level": 50,
-          "value": 1701000
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 30,
-          "value": 106900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 32,
-          "value": 148500
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 34,
-          "value": 190100
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 36,
-          "value": 231700
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 38,
-          "value": 273300
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 40,
-          "value": 314900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 42,
-          "value": 450900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 44,
-          "value": 586900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 46,
-          "value": 722900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 48,
-          "value": 858900
-        },
-        {
-          "rarity": "Root Abyss",
-          "level": 50,
-          "value": 994900
-        },
+          "value": 2430000
+        },        
         {
           "rarity": "Necro",
           "level": 30,
-          "value": 125300
+          "value": 177900
         },
         {
           "rarity": "Necro",
           "level": 32,
-          "value": 208500
+          "value": 296700
         },
         {
           "rarity": "Necro",
           "level": 34,
-          "value": 291700
+          "value": 415500
         },
         {
           "rarity": "Necro",
           "level": 36,
-          "value": 374900
+          "value": 534300
         },
         {
           "rarity": "Necro",
           "level": 38,
-          "value": 458100
+          "value": 653100
         },
         {
           "rarity": "Necro",
           "level": 40,
-          "value": 541300
+          "value": 771900
         },
         {
           "rarity": "Necro",
           "level": 42,
-          "value": 1177100
+          "value": 1680900
         },
         {
           "rarity": "Necro",
           "level": 44,
-          "value": 1812900
+          "value": 2589900
         },
         {
           "rarity": "Necro",
           "level": 46,
-          "value": 2448700
+          "value": 3498900
         },
         {
           "rarity": "Necro",
           "level": 48,
-          "value": 3084500
+          "value": 4407900
         },
         {
           "rarity": "Necro",
           "level": 50,
-          "value": 3720300
+          "value": 5316900
         },
         {
           "rarity": "Chaos",
           "level": 40,
-          "value": 659900
+          "value": 941800
         },
         {
           "rarity": "Chaos",
           "level": 42,
-          "value": 925100
+          "value": 1321000
         },
         {
           "rarity": "Chaos",
           "level": 44,
-          "value": 1190300
+          "value": 1700200
         },
         {
           "rarity": "Chaos",
           "level": 46,
-          "value": 1455500
+          "value": 2079400
         },
         {
           "rarity": "Chaos",
           "level": 48,
-          "value": 1720700
+          "value": 2458600
         },
         {
           "rarity": "Chaos",
           "level": 50,
-          "value": 1985900
+          "value": 2837800
         },
         {
           "rarity": "Chaos",
           "level": 52,
-          "value": 2336100
+          "value": 3338400
         },
         {
           "rarity": "Chaos",
           "level": 54,
-          "value": 2686300
+          "value": 3839000
         },
         {
           "rarity": "Chaos",
           "level": 56,
-          "value": 3036500
+          "value": 4339600
         },
         {
           "rarity": "Chaos",
           "level": 58,
-          "value": 3386700
+          "value": 4840200
         },
         {
           "rarity": "Chaos",
           "level": 60,
-          "value": 3736900
+          "value": 5340800
         },
         {
           "rarity": "AbsoLab",
           "level": 40,
-          "value": 960700
+          "value": 1371800
         },
         {
           "rarity": "AbsoLab",
           "level": 42,
-          "value": 1650900
+          "value": 2358600
         },
         {
           "rarity": "AbsoLab",
           "level": 44,
-          "value": 2341100
+          "value": 3345400
         },
         {
           "rarity": "AbsoLab",
           "level": 46,
-          "value": 3031300
+          "value": 4332200
         },
         {
           "rarity": "AbsoLab",
           "level": 48,
-          "value": 3721500
+          "value": 5319000
         },
         {
           "rarity": "AbsoLab",
           "level": 50,
-          "value": 4411700
+          "value": 6305800
         },
         {
           "rarity": "AbsoLab",
           "level": 52,
-          "value": 5448700
+          "value": 7788600
         },
         {
           "rarity": "AbsoLab",
           "level": 54,
-          "value": 6485700
+          "value": 9271400
         },
         {
           "rarity": "AbsoLab",
           "level": 56,
-          "value": 7522700
+          "value": 10754200
         },
         {
           "rarity": "AbsoLab",
           "level": 58,
-          "value": 8559700
+          "value": 12237000
         },
         {
           "rarity": "AbsoLab",
           "level": 60,
-          "value": 9596700
+          "value": 13719800
         }
       ]
     }
