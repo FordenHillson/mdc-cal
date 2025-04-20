@@ -5,6 +5,7 @@
     export let rarity: string;
     export let level: number;
     export let mdcValue: number;
+	export let img : string;
 
     let showPopup = false;
     let newRarity = rarity;
@@ -30,12 +31,12 @@
 </script>
 
 <div
-	class="h-68 w-42 transform rounded-lg bg-white shadow-lg transition duration-300 hover:scale-110 hover:shadow-xl bg-zinc-800 border-1 border-zinc-700"
+	class="h-60 w-36 transform rounded-lg bg-white shadow-lg transition duration-300 hover:scale-110 hover:shadow-xl bg-zinc-800 border-1 border-zinc-700"
 >
-	<div
-		class="m-2 h-2/5 rounded-lg flex items-center justify-center"
-	><img src="https://placehold.co/100" alt="itemPlaceholder" class="rounded-lg {getBorderClass(newRarity)}" /></div>
-
+	<div class="m-2 h-2/5 rounded-lg flex items-center justify-center">
+		<div class="w-26 h-26 bg-zinc-900 rounded-lg {getBorderClass(newRarity)}"></div>
+		<img src={img} alt="" class="w-20 absolute">
+	</div>
 	<div class="flex flex-col px-5 pt-2">
 		<h2 class="font-semibold">{itemType}</h2>
 		<div class="flex flex-row items-center justify-start text-sm">

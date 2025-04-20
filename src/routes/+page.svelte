@@ -7,15 +7,15 @@
 
 	// Array to manage multiple cards
 	let equCards = [
-		{ itemType: 'Hat', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Glove', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Top', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Bottom', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Outfit', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Shoulder', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Shoes', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Belt', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Cape', rarity: '', level: 0, mdcValue: 0 }
+		{ itemType: 'Hat', rarity: '', level: 0, mdcValue: 0, img:'https://i.imgur.com/f9ImEaq.png'},
+		{ itemType: 'Glove', rarity: '', level: 0, mdcValue: 0, img:'https://i.imgur.com/BHuJ00d.png'},
+		{ itemType: 'Top', rarity: '', level: 0, mdcValue: 0, img: 'https://i.imgur.com/Qeoh6vW.png' },
+		{ itemType: 'Bottom', rarity: '', level: 0, mdcValue: 0, img: 'https://i.imgur.com/UqjJKWi.png' },
+		{ itemType: 'Outfit', rarity: '', level: 0, mdcValue: 0, img: 'https://i.imgur.com/8R6GzvI.png' },
+		{ itemType: 'Shoulder', rarity: '', level: 0, mdcValue: 0, img: 'https://i.imgur.com/GCHid7v.png' },
+		{ itemType: 'Shoes', rarity: '', level: 0, mdcValue: 0, img: 'https://i.imgur.com/PWXFktG.png' },
+		{ itemType: 'Belt', rarity: '', level: 0, mdcValue: 0, img: 'https://imgur.com/XKZwo5q.png' },
+		{ itemType: 'Cape', rarity: '', level: 0, mdcValue: 0, img: 'https://imgur.com/L0BCvKk.png' }
 	];
 
 	// Function to handle the save event from a specific Card
@@ -77,6 +77,7 @@
 					rarity={card.rarity}
 					level={card.level}
 					mdcValue={formatNumber(card.mdcValue)}
+					img={card.img}
 					on:save={(event) => handleSave(event, index)}
 				/>
 			{/each}
