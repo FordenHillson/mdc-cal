@@ -1,11 +1,11 @@
 <script>
 	import { onMount } from 'svelte';
-	import equCardData from '$lib/equCard.svelte';
-	import data from '../../src/mdcData.json';
+	import EquipCard from '$lib/equipCard.svelte';
+	import data from '../mdcData.json';
 
 	let baseMDC = 17999999;
 
-	// Array to manage multiple equCards
+	// Array to manage multiple cards
 	let equCards = [
 		{ itemType: 'Hat', rarity: '', level: 0, mdcValue: 0 },
 		{ itemType: 'Glove', rarity: '', level: 0, mdcValue: 0 },
@@ -15,10 +15,10 @@
 		{ itemType: 'Shoulder', rarity: '', level: 0, mdcValue: 0 },
 		{ itemType: 'Shoes', rarity: '', level: 0, mdcValue: 0 },
 		{ itemType: 'Belt', rarity: '', level: 0, mdcValue: 0 },
-		{ itemType: 'Cape', rarity: '', level: 0, mdcValue: 0 },		
+		{ itemType: 'Cape', rarity: '', level: 0, mdcValue: 0 }
 	];
 
-	// Function to handle the save event from a specific equCardData
+	// Function to handle the save event from a specific Card
 	function handleSave(event, index) {
 		const { itemType, rarity, level } = event.detail;
 
@@ -33,7 +33,7 @@
 			equCards[index].mdcValue = 0; // Default if no match
 		}
 
-		// Update the equCardData data
+		// Update the card data
 		equCards[index] = { ...equCards[index], itemType, rarity, level };
 	}
 
@@ -43,7 +43,7 @@
 	}
 
 	// Calculate total MDC
-	$: totalMDC = baseMDC + equCards.reduce((sum, equCardData) => sum + equCardData.mdcValue, 0);
+	$: totalMDC = baseMDC + equCards.reduce((sum, card) => sum + card.mdcValue, 0);
 
 	
 </script>
@@ -71,12 +71,12 @@
 		</div>
 		<p class="mt-4">equipment</p>
 		<div class="mt-5 flex grid grid-cols-2 flex-col gap-1.5 gap-3 px-2 py-4 xl:grid-cols-5 border-y-1 border-slate-500">
-			{#each equCards as equCardData, index}
-				<equCardData
-					itemType={equCardData.itemType}
-					rarity={equCardData.rarity}
-					level={equCardData.level}
-					mdcValue={formatNumber(equCardData.mdcValue)}
+			{#each equCards as card, index}
+				<EquipCard
+					itemType={card.itemType}
+					rarity={card.rarity}
+					level={card.level}
+					mdcValue={formatNumber(card.mdcValue)}
 					on:save={(event) => handleSave(event, index)}
 				/>
 			{/each}
