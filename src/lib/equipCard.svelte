@@ -4,7 +4,7 @@
     export let itemType: string;
     export let rarity: string;
     export let level: number;
-    export let mdcValue: number;
+    export let mdcValue: string;
 	export let img : string;
 
     let showPopup = false;
@@ -63,7 +63,7 @@
 			<h3 class="mb-2 text-lg font-semibold text-white">Edit Item</h3>
 			<p class="text-center font-semibold text-l mb-2 text-white">{itemType}</p>
 			<div class="mb-2 flex items-center justify-center">
-				<img src="https://placehold.co/200" alt="itemPlaceholder" class="mb-2 rounded-lg {getBorderClass(newRarity)}" />
+				<img src={img} alt="itemPlaceholder" class="mb-2 rounded-lg {getBorderClass(newRarity)}" />
 			</div>
 			<div class="mb-2">
 				<label class="block text-sm font-medium text-white">Rarity</label>

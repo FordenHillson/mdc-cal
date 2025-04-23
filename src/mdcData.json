@@ -9,13 +9,13 @@
       "value": 2250000
     }
   ],
-  "Commander Set": [
+  "CommanderSet": [
     {
       "type": "None",
       "value": 0
     },
     {
-      "type": "Full Set",
+      "type": "FullSet",
       "value": 500000
     }
   ],
@@ -73,7 +73,7 @@
       "value": 4700000
     }
   ],
-  "Soul E": [
+  "SoulE": [
     {
       "type": "None",
       "value": 0
