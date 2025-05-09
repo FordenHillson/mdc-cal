@@ -3,6 +3,7 @@
 	import EquipCard from '$lib/equipCard.svelte';
 	import SoulCard from '$lib/soulCard.svelte';
 	import CommanderCard from '$lib/commanderCard.svelte';
+	import LegionCard from '$lib/legionCard.svelte';
 	import data from '../mdcData.json';
 
 	let baseMDC = 17999999;
@@ -104,6 +105,15 @@
 		}
 	];
 
+	let legionCards = [
+		{
+			legionTitle: 'Legion',
+			legionType: 'None',
+			mdcValue: 0,
+			img: 'https://static.wikia.nocookie.net/maplestory/images/a/a7/Nameless_Legion_Rank_1.png'
+		}
+	];
+
 	// Function to handle the save event from a specific Card
 	function handleEquSave(event, index) {
 		const { itemType, rarity, level } = event.detail;
@@ -169,6 +179,21 @@
 		commanderCards[index] = { ...commanderCards[index], comType };
 	}
 
+	function handleLegionSave(event, index) {
+		const { legionType } = event.detail;
+
+		// Find the matching mdcValue from mdcData.json
+		const legionData = data.Legion.find((l) => l.type === legionType);
+		if (legionData) {
+			legionCards[index].mdcValue = legionData.value;
+		} else {
+			legionCards[index].mdcValue = 0; // Default if no match
+		}
+
+		// Update the card data
+		legionCards[index] = { ...legionCards[index], legionType };
+	}
+
 	// Function to format numbers with commas
 	function formatNumber(num) {
 		return new Intl.NumberFormat().format(num);
@@ -179,7 +204,8 @@
 		baseMDC +
 		equCards.reduce((sum, card) => sum + card.mdcValue, 0) +
 		soulCards.reduce((sum, card) => sum + card.mdcValue, 0) +
-		commanderCards.reduce((sum, card) => sum + card.mdcValue, 0);
+		commanderCards.reduce((sum, card) => sum + card.mdcValue, 0) +
+		legionCards.reduce((sum, card) => sum + card.mdcValue, 0);
 </script>
 
 <nav class="sticky top-0 z-10 bg-gray-800">
@@ -219,7 +245,7 @@
 			{/each}
 		</div>
 
-		<div class="flex flex-col gap-2 w-80 xl:w-200 xl:flex-row">
+		<div class="flex w-80 flex-col gap-2 xl:w-200 xl:flex-row">
 			<div>
 				<p class="mt-4">Soul</p>
 				<div
@@ -247,7 +273,7 @@
 				</div>
 			</div>
 
-			<div class="w-70">
+			<div class="w-88">
 				<p class="mt-4">Commander Set</p>
 				<div
 					class="mt-5 flex grid grid-cols-2 flex-col gap-1.5 gap-3 border-y-1 border-slate-500 px-2 py-4 xl:grid-cols-3"
@@ -263,6 +289,20 @@
 					{/each}
 				</div>
 			</div>
+		</div>
+		<p class="mt-4">Legion</p>
+		<div
+			class="mt-5 flex grid grid-cols-2 flex-col gap-1.5 gap-3 border-y-1 border-slate-500 px-2 py-4 xl:grid-cols-5"
+		>
+			{#each legionCards as card, index}
+				<LegionCard
+					legionType={card.legionType}
+					legionTitle={card.legionTitle}
+					mdcValue={formatNumber(card.mdcValue)}
+					img={card.img}
+					on:save={(event) => handleLegionSave(event, index)}
+				/>
+			{/each}
 		</div>
 	</div>
 </main>
